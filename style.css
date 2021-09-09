@@ -372,6 +372,7 @@ footer .footer{
 @media(max-width: 992px){
     .flex-container{
         flex-direction: column;
+        margin-bottom: 20px;
     }
 
     .apresentacao{
@@ -385,6 +386,7 @@ footer .footer{
     .apresentacao .img1{
         max-height: 30px;
         width: 25%;
+        
     }
 
     #quem-somos{
