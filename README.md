@@ -1,7 +1,8 @@
 # Meu Terceiro Site💻🖱
 Primeiro contato com a framework Flexbox.
 
-Nesse projeto é criado um site de apresentação dos meus animais de estimação, onde contem suas respetivas fotos e caracteristicas. 
+Nesse projeto é criado um site de apresentação dos meus animais de estimação, onde contem suas respetivas fotos e caracteristicas.<br>
+Linguagens utilizadas: html, css com o framework flexbox.
 
 Link🔗: https://gangorra.github.io/Meu-Site-3/
 
