@@ -5,4 +5,4 @@ Nesse projeto é criado um site de apresentação dos meus animais de estimaçã
 
 Link🔗: https://gangorra.github.io/Meu-Site-3/
 
-![OS GANGORRINHAS](https://cdn.discordapp.com/attachments/868299459543592962/896017012537589830/gangorraworld.png) ![OS GANGORRINHAS](https://cdn.discordapp.com/attachments/868299459543592962/896017530018213908/gangorraworld2.png)
+![OS GANGORRINHAS](https://cdn.discordapp.com/attachments/868299459543592962/896017012537589830/gangorraworld.png) 
