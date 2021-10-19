@@ -1,4 +1,4 @@
-# Meu Terceiro Site💻🖱
+# Os Gangorrinhas💻🖱
 Primeiro contato com a framework Flexbox.
 
 Nesse projeto é criado um site de apresentação dos meus animais de estimação, onde contem suas respetivas fotos e características.<br>
